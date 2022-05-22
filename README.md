@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 😳
+
+![3x (1)](https://user-images.githubusercontent.com/65386358/169717800-979cf2a8-191b-4381-bb32-40fb9ba1943d.gif)
 
 <!--
 **seloxyyz/seloxyyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
