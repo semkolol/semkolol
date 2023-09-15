@@ -2,9 +2,9 @@
 
 ![3x (1)](https://user-images.githubusercontent.com/65386358/169717800-979cf2a8-191b-4381-bb32-40fb9ba1943d.gif)
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdL_q3jgMkkgXtaUVo8vVNw)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/semkolol)
-![Twitch Status](https://img.shields.io/twitch/status/semkou)
+<a href="https://www.youtube.com/@semkolol"><img src="https://img.shields.io/youtube/channel/subscribers/UCdL_q3jgMkkgXtaUVo8vVNw" alt="Youtube" /></a>
+<a href="https://twitter.com/semkolol"><img src="https://img.shields.io/twitter/follow/semkolol" alt="Twitter"></a>
+<a href="https://twitch.tv/semkou"><img src="https://img.shields.io/twitch/status/semkou?label=Twitch" alt="Twitch"></a>
 [![Discord](https://img.shields.io/discord/813037420353290260.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/x2VEcEjRyN)
 
 
